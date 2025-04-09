@@ -1,0 +1,12 @@
+{
+  "ID": "7463e642-7ab5-4df5-b537-56eefcc53e74",
+  "ActionKeyword": "tw",
+  "Name": "Twitch",
+  "Description": "Launch your favorite twitch streamer's stream",
+  "Author": "Thrump",
+  "Version": "1.0.0",
+  "Language": "typescript",
+  "Website": "https://github.com/NothingHollow/Flow_Launcher-MyAnimeList",
+  "ExecuteFileName": "./build/index.js",
+  "IcoPath": "public/app.png"
+}
